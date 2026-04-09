@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# ML artifacts
+ml/model.pkl
+ml/scaler.pkl
+ml/threshold.pkl
+
+# Used in README.md
+# Generated plots
+# ml/plots   
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
